@@ -1,3 +1,5 @@
+#Classe criada em Python para facilitar a execução dos cálculos de Média, Variância e Desvio Padrão solicitados no documento
+
 import math
 
 def calculate_mean(values):
